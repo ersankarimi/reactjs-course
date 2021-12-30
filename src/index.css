@@ -1,0 +1,10 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+html {
+    --gray-light: rgb(243, 243, 243);
+    
+}
+
+.light-gray {
+    background-color: var(--gray-light);
+}
